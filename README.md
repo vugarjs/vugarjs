@@ -1,37 +1,36 @@
-# Hi, I'm Vugar 👋
+### 💻 C# Backend Developer | .NET Developer | Software Engineering Enthusiast
 
-### Developer | C# / .NET
-
-I'm focused on **C# and .NET development**, currently building projects and improving my backend development skills.
-
-## 🛠️ Technologies & Tools
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
-
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-## 🧩 Concepts
-
-`OOP` · `LINQ` · `Async/Await` · `Dependency Injection` · `DTOs` · `AutoMapper` · `Repository Pattern` · `N-Tier Architecture`
-
-## 📚 Currently Learning
-
-* ASP.NET Core Web API
-* REST APIs
-* Authentication & Authorization
-
-## 🎯 Goal
-
-Become a **Full-Stack Developer** with a strong foundation in C#/.NET.
+Güvenilir arka uç (backend) uygulamaları geliştirmeye ve **C#/.NET ekosistemindeki** becerilerimi geliştirmeye odaklanmış tutkulu bir geliştiriciyim. Pratik projeler üretmekten, veritabanlarıyla çalışmaktan ve modern yazılım geliştirme pratiklerini öğrenmekten keyif alıyorum.
 
 ---
 
-📌 **GitHub:** [@vugarjs](https://github.com/vugarjs)
+### 🚀 Hakkımda
+
+* 🔹 Şu anda **C# & .NET Backend Geliştirme** alanına odaklanıyorum.
+* 🔹 **ASP.NET Core, Entity Framework Core ve SQL Server** kullanarak uygulamalar inşa ediyorum.
+* 🔹 **Backend Mimarisi, API'ler ve Veritabanı Tasarımı** konularına ilgi duyuyorum.
+* 🔹 Gerçek dünya projeleri aracılığıyla programlama becerilerimi sürekli olarak geliştiriyorum.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+
+**💻 Backend Geliştirme**
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
+</p>
+
+**🗄️ Veritabanı**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+</p>
+
+**🔧 Araçlar**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+</p>
