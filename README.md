@@ -1,33 +1,37 @@
 # Hi, I'm Vugar 👋
 
-### C# / .NET Developer
+### Developer | C# / .NET
 
-I'm currently focused on **C# and .NET backend development**, building projects and improving my understanding of software architecture and databases.
+I'm focused on **C# and .NET development**, currently building projects and improving my backend development skills.
 
-### 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![ADO.NET](https://img.shields.io/badge/ADO.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge\&logo=visualstudio\&logoColor=white)
 
-### 🔧 Concepts & Tools
+## 🧩 Concepts
 
-`OOP` · `LINQ` · `Async/Await` · `Dependency Injection` · `DTOs` · `AutoMapper` · `Repository Pattern` · `N-Tier Architecture` · `EF Core`
+`OOP` · `LINQ` · `Async/Await` · `Dependency Injection` · `DTOs` · `AutoMapper` · `Repository Pattern` · `N-Tier Architecture`
 
-### 📚 Currently Learning
+## 📚 Currently Learning
 
 * ASP.NET Core Web API
 * REST APIs
 * Authentication & Authorization
 
-### 🎯 Goal
+## 🎯 Goal
 
-**Full-Stack Developer**
+Become a **Full-Stack Developer** with a strong foundation in C#/.NET.
 
-📌 [GitHub](https://github.com/vugarjs)
+---
+
+📌 **GitHub:** [@vugarjs](https://github.com/vugarjs)
