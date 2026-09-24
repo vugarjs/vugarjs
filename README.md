@@ -1,34 +1,35 @@
 ### 💻 C# Backend Developer | .NET Developer | Software Engineering Enthusiast
 
-Güvenilir arka uç (backend) uygulamaları geliştirmeye ve **C#/.NET ekosistemindeki** becerilerimi geliştirmeye odaklanmış tutkulu bir geliştiriciyim. Pratik projeler üretmekten, veritabanlarıyla çalışmaktan ve modern yazılım geliştirme pratiklerini öğrenmekten keyif alıyorum.
+I am a passionate developer focused on building reliable backend applications and improving my skills in the **C#/.NET ecosystem**.
+I enjoy creating practical projects, working with databases, and learning modern software development practices.
 
 ---
 
-### 🚀 Hakkımda
+### 🚀 About Me
 
-* 🔹 Şu anda **C# & .NET Backend Geliştirme** alanına odaklanıyorum.
-* 🔹 **ASP.NET Core, Entity Framework Core ve SQL Server** kullanarak uygulamalar inşa ediyorum.
-* 🔹 **Backend Mimarisi, API'ler ve Veritabanı Tasarımı** konularına ilgi duyuyorum.
-* 🔹 Gerçek dünya projeleri aracılığıyla programlama becerilerimi sürekli olarak geliştiriyorum.
+* 🔹 Currently focusing on **C# & .NET Backend Development**
+* 🔹 Building applications with **ASP.NET Core, Entity Framework Core and SQL Server**
+* 🔹 Interested in **Backend Architecture, APIs and Database Design**
+* 🔹 Continuously improving my programming skills through real-world projects
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
+### 🛠️ Technologies & Tools
 
-**💻 Backend Geliştirme**
+**💻 Backend Development**
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio" />
 </p>
 
-**🗄️ Veritabanı**
+**🗄️ Database**
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
 </p>
 
-**🔧 Araçlar**
+**🔧 Tools**
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
