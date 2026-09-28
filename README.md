@@ -41,10 +41,7 @@ I enjoy creating practical projects, working with databases, and learning modern
 </p>
 ### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vugarjs&show_icons=true&theme=tokyonight&hide_border=true" alt="Vugar's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vugarjs&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vugarjs&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vugarjs&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
